@@ -17,7 +17,6 @@ Technologies utilisées :
 - HTML/CSS
 - JavaScript
 - Architecture MVC
-- Font Awesome pour les icônes
 
 3. INSTRUCTIONS D'INSTALLATION
 
