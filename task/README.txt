@@ -1,7 +1,6 @@
-GESTIONNAIRE DE TÂCHES
-Groupe de TEGANTCHOUANG MEROVEE, DJANWOUO ULRICH, TIAKO YANN
+Task Master Solutions
 
-Une application web pour la gestion de tâches personnelles et professionnelles.
+Une une application de gestion intelligente des tâches en ligne.
 
 1. DESCRIPTION DU PROJET
 
@@ -35,7 +34,7 @@ Technologies utilisées :
    - Copier tous les fichiers dans le répertoire web
    
 4. Lancement de l'application :
-   - Accéder à l'URL : http://localhost/task
+   - Accéder à l'URL : http://localhost/task/index.php
 
 4. INFORMATIONS DE CONNEXION
 
