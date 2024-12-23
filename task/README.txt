@@ -34,7 +34,7 @@ Technologies utilisées :
    - Copier tous les fichiers dans le répertoire web
    
 4. Lancement de l'application :
-   - Accéder à l'URL : http://localhost/task/index.php
+   - Accéder à l'URL : http://localhost/task_manager-main/task/login.php
 
 4. INFORMATIONS DE CONNEXION
 
