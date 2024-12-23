@@ -6,7 +6,7 @@ Une une application de gestion intelligente des tâches en ligne.
 
 
 Le Gestionnaire de Tâches est une application permettant aux utilisateurs de :
-- Créer et gérer des tâches personnelles
+- Créer et gérer des tâches
 - Suivre l'avancement des tâches
 - Organiser les tâches par catégories
 - Visualiser des statistiques sur le tableau de bord
