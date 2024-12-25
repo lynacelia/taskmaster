@@ -170,12 +170,12 @@ class Task {
         return $stmt->execute();
     }
 
-    public function Statut() {
-        $heurecatu= date('H:i:s');
+   public function Statut() {
+        $heurecatu = date('Y-m-d H:i:s'); // Inclure la date et l'heure complètes
         $query = "UPDATE " . $this->table_name . "
-                 SET status = 'En cours'
-                 WHERE date_debut <= :heurecatu";
-
+                  SET status = 'En cours'
+                  WHERE date_debut <= :heurecatu";
+    
         $stmt = $this->conn->prepare($query);
         $stmt->bindParam(":heurecatu", $heurecatu);
         return $stmt->execute();
